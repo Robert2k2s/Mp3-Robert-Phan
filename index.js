@@ -57,12 +57,6 @@ const app = {
       img: "./img/OnMyWay2.jpg",
     },
     {
-      name: "lily",
-      singer: "K-391 & Emelie Hollow",
-      path: "./audio/lily.mp3",
-      img: "./img/lilys.jpg",
-    },
-    {
       name: "Falls Down",
       singer: " Alan Walker; Noah Cyrus",
       path: "./audio/FallsDown.mp3",
@@ -97,12 +91,6 @@ const app = {
       singer: "K'naan",
       path: "./audio/Wavin.mp3",
       img: "./img/wavin.jpeg",
-    },
-    {
-      name: "The Difference",
-      singer: " Daya",
-      path: "./audio/TheDifference.mp3",
-      img: "./img/Unstop.jpg",
     },
   ],
 
